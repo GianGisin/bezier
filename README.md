@@ -1,5 +1,5 @@
 # pygame bézier curve implementation
-
+<img src="img/animation.gif" width="40%">
 ## installation
 virtual environment is recommended
 
